@@ -1,0 +1,20 @@
+.cod:hover{
+    color:white !important;
+}
+
+.alignment{
+    margin-top: 175px !important;
+}
+
+.home_boxes h3{
+    font-size:19px;
+    padding:0 0 0 5px;
+}
+
+#grad1 {
+    height: 200px;
+    background: -webkit-linear-gradient(left, #291631 , #6E0597); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #291631, #6E0597); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #291631, #6E0597); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #291631 , #6E0597); /* Standard syntax (must be last) */
+}
