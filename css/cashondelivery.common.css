@@ -18,3 +18,19 @@
     background: -moz-linear-gradient(right, #291631, #6E0597); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to right, #291631 , #6E0597); /* Standard syntax (must be last) */
 }
+
+.form{
+    float:left;
+}
+
+.control-group{
+    padding-bottom: 15px;
+}
+
+#main-content-login{
+    height: 370px;
+}
+
+#main-content{
+    height: 370px;
+}
